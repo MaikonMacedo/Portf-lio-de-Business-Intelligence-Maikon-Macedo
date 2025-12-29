@@ -1,0 +1,38 @@
+# 📊 Análise de Vendas – Business Case Estratégico
+
+Projeto de **Business Intelligence** desenvolvido para análise dos dados de vendas
+da empresa no período de **set/2018 a dez/2019**, a partir de uma solicitação do
+Diretor Estratégico.
+
+## 🎯 Objetivo
+Avaliar o desempenho financeiro e comercial da empresa, identificando
+faturamento, lucro, margem, descontos e performance por país, tipo de cliente
+e produto, com foco em **apoio à tomada de decisão estratégica em um cenário
+de crise**.
+
+## 📁 Base de Dados
+- Período: set/2018 a dez/2019  
+- Dados de vendas, clientes, produtos, países, descontos e margens  
+- Tratamento e transformação realizados no Power Query
+
+## 📊 Principais Análises
+- Resultado financeiro do período (lucro ou prejuízo)
+- Faturamento total e faturamento médio mensal
+- Países com maior faturamento e maior margem de lucro
+- Mês de maior faturamento
+- Tipos de clientes mais rentáveis
+- Valor total de descontos concedidos
+- Produtos com prejuízo, faturamento e margem por produto
+
+## 🧠 Tomada de Decisão
+Com base nos insights gerados, o projeto subsidiou decisões como:
+- Avaliação da retirada da empresa de países com baixa rentabilidade
+- Definição de foco em tipos de clientes com maior margem de lucro
+- Estratégias para expansão em mercados pouco explorados
+- Análise da descontinuação de produtos com baixo desempenho
+
+## 🛠️ Ferramentas Utilizadas
+- Power BI
+- Excel
+- Power Query
+- DAX
