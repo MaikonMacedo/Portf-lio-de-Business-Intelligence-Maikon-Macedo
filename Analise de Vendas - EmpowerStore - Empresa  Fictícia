@@ -1,0 +1,80 @@
+📊 Business Case – Gestão de Vendas | EmpowerStore
+
+📌 Visão Geral
+Este projeto consiste no desenvolvimento de uma **solução automatizada de análise de vendas em Excel, utilizando Power Query e Tabelas Dinâmicas, 
+baseada em um cenário fictício de consultoria para a empresa EmpowerStore.
+
+O objetivo principal é otimizar o processo de consolidação e análise de dados, reduzindo o tempo operacional e garantindo escalabilidade para a expansão do negócio.
+
+🏢 Contexto do Negócio
+A EmpowerStore possui atualmente:
+- 1 Matriz
+- 2 Filiais
+
+O processo atual de análise de vendas é manual e leva, em média, 3 dias por analista. Com a previsão de abertura de novas filiais, a diretoria identificou riscos de ineficiência,
+atraso nas análises e perda de controle gerencial.
+
+🎯 Objetivos do Projeto
+- Automatizar a consolidação de dados de vendas de múltiplas unidades  
+- Reduzir o tempo de geração de relatórios para menos de 1 dia  
+- Permitir que apenas um analista seja responsável por todo o processo  
+- Criar uma base escalável para futuras filiais  
+
+🧩 Desafio
+Toda semana são gerados 3 arquivos de vendas, um para cada unidade.  
+O desafio foi desenvolver um processo que:
+- Consolide automaticamente essas bases
+- Elimine atividades manuais repetitivas
+- Garanta padronização e confiabilidade dos dados
+
+🛠️ Ferramentas Utilizadas
+- Microsoft Excel
+- Power Query
+- Extração e consolidação automática das bases
+- Tratamento e padronização dos dados
+- Tabelas Dinâmicas
+- Gráficos e indicadores visuais (Dashboard)
+
+📈 Análises Desenvolvidas
+- Faturamento total por unidade  
+- Percentual de faturamento **Matriz vs Filiais**  
+- Top 1 vendedor de cada unidade  
+- Análise de faturamento mensal  
+- Faturamento por categoria de produto  
+- Representatividade do faturamento por produto  
+- Ticket médio por produto  
+
+📊 Dashboard
+O dashboard foi desenvolvido em Excel com foco em **clareza, objetividade e suporte à tomada de decisão, permitindo:
+- Visualização rápida do desempenho das unidades
+- Comparação entre matriz e filiais
+- Identificação de produtos e vendedores de maior impacto
+
+🔄 Fluxo da Solução
+1. Importação automática dos arquivos de vendas via Power Query  
+2. Tratamento e consolidação das bases  
+3. Atualização automática das tabelas dinâmicas  
+4. Atualização do dashboard com um único clique  
+
+✅ Resultados Obtidos
+- Redução drástica do tempo de análise  
+- Processo totalmente automatizado  
+- Modelo escalável para novas filiais  
+- Maior confiabilidade e padronização dos dados  
+
+⚠️ Observações Importantes
+- Este projeto utiliza dados fictícios
+- Desenvolvido exclusivamente para fins educacionais e de portfólio
+
+🚀 Possíveis Evoluções
+- Inclusão de metas e indicadores de performance (KPIs)
+- Automatização via Power BI
+- Integração com banco de dados
+- Análise de sazonalidade e previsões de vendas
+
+👤 Autor
+Maikon Douglas da Silva Macedo
+Assistente Administrativo Financeiro | Análise de Dados | Excel & BI  
+
+📎 LinkedIn: www.linkedin.com/in/maikon-macedo 
+📂 Portfólio
